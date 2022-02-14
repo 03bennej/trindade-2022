@@ -1,6 +1,6 @@
 # Sample code to reproduce the 2d simulation results in "Evidence for a scale-dependent root-augmentation feedback and patchy invasion"
 
-We solve the non-dimensionalised equations:
+We solve the non-dimensionalised version of the equations given by:
 
 <!-- Use https://latex.codecogs.com/ to generate images of equations -->
 
@@ -31,3 +31,7 @@ and
 <!-- Latex code for dispersal kernel: \phi_{i} = \frac{1}{2 \pi} \left[ \frac{\sigma_{d_i}}{\left(|\mathbf{x}-\mathbf{x}'|+\sigma_{d_i}^2 \right)^{3/2}} \right] -->
 
 ![](https://latex.codecogs.com/svg.image?\phi_{i}&space;=&space;\frac{1}{2&space;\pi}&space;\left[&space;\frac{\sigma_{d_i}}{\left(|\mathbf{x}-\mathbf{x}'|&plus;\sigma_{d_i}^2&space;\right)^{3/2}}&space;\right])
+
+The relationship between the non-dimensionalised parameters given here, and the dimensional parameters given in the paper are:
+
+
