@@ -1,6 +1,6 @@
 # Sample code to reproduce the 2d simulation results in "Evidence for a scale-dependent root-augmentation feedback and patchy invasion"
 
-We solve the non-dimensionalised version of the equations given by:
+We solve the non-dimensionalised version of the equations (see paper) given by:
 
 <!-- Use https://latex.codecogs.com/ to generate images of equations -->
 
