@@ -1,11 +1,8 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
-Created on Sun Feb  7 10:27:22 2021
 
 Calculate integral terms GB and GW as in Gilad and Von Hardenberg (2006)
 
-@author: 03bennej
+@author: Jamie Bennett
 """
 
 import cupy as cp
